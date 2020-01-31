@@ -5,4 +5,4 @@ pandas
 xgboost
 tqdm
 scikit-learn
-tensorflow==2.O
+tensorflow==2.0.0
